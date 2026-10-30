@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+data/raw/
+artifacts/splits.npz
+
+.env
+.DS_Store
+.vscode/
